@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html>
 
-<head>urmom</head>
+<head> <title> Cav and Yips Page </title> </head>
 
 
 <body>
 <div class="nav">
 <div class="container">
+<p> <strong> Diamond Armour </strong> <p>
 <ul>
-  <li>To be Discussed</li>
-  <li>To be Discussed</li> 
-  <li>To be Discussed</li> 
+  <li> Chestplate 4 Armour Bars </li>
+   <a href"http://i.imgur.com/ud99zch.jpg"> Diamond Chestplate </a>
+  <li> Helmet   1.5 Armour Bars </li> 
+  <li> Leggings   3 Armour Bars </li> 
+  <li> Boots    1.5 Armour Bars </li>
 </ul>  
+ <p> Total Diamond Armour Set Value 10
 </div>
 <h1>Website Name</h1>
-<p>Armour Values</p>
+
 </body>
 
 
