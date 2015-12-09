@@ -7,8 +7,6 @@
 
 <head> 
 <link rel="stylesheet" type="text/css" href="style.css" />
-
-
 <title> Cav and Yips Page </title> 
 </head>
 
@@ -16,48 +14,30 @@
 
 
 <body>
-
 <div class="nav">
-
 <div class="container">
+<h1>Website Name</h1>
 
-<div class="Gif">
-<a href="https://imgflip.com/gif/vi6y3"><img src="https://i.imgflip.com/vi6y3.gif" title="made at imgflip.com"/></a>
-</div>
 <p> <strong> Diamond Armour </strong> <p>
 
-
 <ul>
+  <li> Chestplate 4 Armour Bars </li>
+  <div class="Diamond Chestplate1">
   
-
-<li> Chestplate 4 Armour Bars </li>
-  
-<div class="Diamond Chestplate1"> 
-<img id= "Diamond Chestplate" src = http://i.imgur.com/dUKCUJ9.jpg heigth="200" width="200"/>
+  <img id= "Diamond Chestplate" src = http://i.imgur.com/dUKCUJ9.jpg heigth="200" width="200"/>
   
 </div>
 <li> Helmet   1.5 Armour Bars </li> 
-  
-
-<li> Leggings   3 Armour Bars </li> 
-  
-
-<li> Boots    1.5 Armour Bars </li>
-
+  <li> Leggings   3 Armour Bars </li> 
+  <li> Boots    1.5 Armour Bars </li>
 
 </ul>  
  
-
 <p> Total Diamond Armour Set Value: 10
  </p>
 
 </div>
-
 </div>
-
-<h1>Website Name</h1>
-
-
 
 </body>
 
