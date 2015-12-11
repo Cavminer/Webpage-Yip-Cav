@@ -1,3 +1,8 @@
+.Title {
+background-image: url("http://i.imgur.com/Ta0vzu2.jpg");
+color: white;
+text: center;
+}
 .nav {
 width: 1200px;
 heigth: 20px;
@@ -11,9 +16,17 @@ border-style: solid;
 border-color: #a9a9a9;
 font-family: "Sans serif", verdana;
 font-size: 15px;
-text: inline-block;
 }
-.homepageRender {
-width: 200px;
-heigth: 200px;
+.nav p {
+display: inline-table;
 }
+.news {
+position: relative;
+down: 200px;
+font-family: "Sans serif", verdana;
+}
+.Render {
+position: relative;
+left: 600px
+}
+
