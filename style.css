@@ -2,31 +2,33 @@
 background-image: url("http://i.imgur.com/Ta0vzu2.jpg");
 color: white;
 text: center;
+heigth:200px;
 }
 .nav {
-width: 1200px;
+width: 100%;
 heigth: 20px;
-background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b8e1fc+0,a9d2f3+10,90bae4+25,90bcea+37,90bff0+50,6ba8e5+51,a2daf5+83,bdf3fd+100;Blue+Gloss+%231 */
-background: #b8e1fc; /* Old browsers */
-background: -moz-linear-gradient(top, #b8e1fc 0%, #a9d2f3 10%, #90bae4 25%, #90bcea 37%, #90bff0 50%, #6ba8e5 51%, #a2daf5 83%, #bdf3fd 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #b8e1fc 0%,#a9d2f3 10%,#90bae4 25%,#90bcea 37%,#90bff0 50%,#6ba8e5 51%,#a2daf5 83%,#bdf3fd 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #b8e1fc 0%,#a9d2f3 10%,#90bae4 25%,#90bcea 37%,#90bff0 50%,#6ba8e5 51%,#a2daf5 83%,#bdf3fd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e1fc', endColorstr='#bdf3fd',GradientType=0 ); /* IE6-9 */;
+background-color: grey;
 border-style: solid;
-border-color: #a9a9a9;
+border-color: black;
 font-family: "Sans serif", verdana;
 font-size: 15px;
 }
 .nav p {
 display: inline-table;
 }
+#wrap {
+  width: 600px;
+}
 .news {
-position: relative;
-down: 200px;
-font-family: "Sans serif", verdana;
+ width: 394px;
+    float: left;
+    height: 620px;
+        background-color: grey;
+	border-style: solid;
+	border-color: black;
 }
 .Render {
-position: relative;
-left: 600px
+ width: 200px;
+    float: right;
+    height: 300px;
 }
-
