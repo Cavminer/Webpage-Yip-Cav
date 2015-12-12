@@ -1,35 +1,18 @@
+.Border {
+padding: 0.5px;
+border-bottom: 5px solid;
+border-color: green;
+}
 .Title {
 background-image: url("http://i.imgur.com/OL0qLPU.jpg");
-color: white;
-text: center;
-heigth:200px;
-padding: 45px;
+padding: 80px;
 }
-.nav {
-width: 100%;
-heigth: 20px;
-background-color: grey;
-border-style: solid;
-border-color: black;
-font-family: "Sans serif", verdana;
-font-size: 15px;
+.Title h1 {
+color: White;
+float: right;
+margin-right: 50%;
 }
-.nav p {
-display: inline-table;
-}
-#wrap {
-  width: 600px;
-}
-.news {
- width: 394px;
-    float: left;
-    height: 620px;
-        background-color: grey;
-	border-style: solid;
-	border-color: black;
-}
-.Render {
- width: 200px;
-    float: right;
-    height: 300px;
+.WebpageMiddle {
+background-color: #FCF5EB;
+padding: 400px;
 }
