@@ -25,5 +25,27 @@ margin-right: 50%;
 background-color: #FCF5EB;
 padding: 400px;
 }
+#wrap {
+width: 100%;
+}
+.button1 {
+padding: 100px;
+width: 150px;
+background-image: url("http://i.imgur.com/OL0qLPU.jpg");
+font-family: Impact, fantasy;
+font-size: 40px;
+color: white;
+float: left;
+}
+.button2 {
+padding: 100px;
+width: 150px;
+background-image: url("http://i.imgur.com/OL0qLPU.jpg");
+font-family: Impact, fantasy;
+font-size: 40px;
+color: white;
+float: right;
+}
+
 
 
