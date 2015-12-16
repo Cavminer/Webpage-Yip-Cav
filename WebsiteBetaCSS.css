@@ -7,19 +7,19 @@ margin: 0px;
 padding: 0px;
 border: 0px;
 }
-.Border {
-padding: 0.5px;
-border-bottom: 5px solid;
-border-color: green;
-}
 .Title {
-background-image: url("http://i.imgur.com/OL0qLPU.jpg");
 padding: 80px;
 }
-.Title h1 {
+.Title img {
 color: White;
 float: right;
-margin-right: 50%;
+margin-right: 40%;
+}
+.banner{
+margin-top: 20%;
+background-image: url("http://i.imgur.com/OL0qLPU.jpg");
+padding: 120px;
+
 }
 .WebpageMiddle {
 background-color: #FCF5EB;
@@ -50,7 +50,5 @@ float: right;
 padding: 20px;
 background: orange;
 }
-
-
 
 
